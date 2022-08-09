@@ -1,5 +1,9 @@
 # Bhromaon Project
-<b> Course IT Women - Front End </b> 
+<b> Course IT Women - Front End </b>
+<br>
+<p align="center">
+  <img src="https://github.com/glauciabierwagen/bootstrap/blob/main/images/readmeimage.png"  heigth="750"/>
+</p>
 
 ## Guidelines
 
